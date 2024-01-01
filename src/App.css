@@ -83,6 +83,10 @@ h1, #articles{
   background-image: none;
 }
 
+.sign {
+  margin-top: 80px;
+}
+
 .errormessage{
   color: red;
 };

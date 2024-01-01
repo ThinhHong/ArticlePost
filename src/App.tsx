@@ -2,7 +2,7 @@ import React, {FC} from 'react';
 import "./App.css";
 import { createBrowserRouter, createRoutesFromElements, Route, Outlet, RouterProvider } from 'react-router-dom';
 import { Home } from './pages/home/Homepage';
-import { Login } from './pages/Login';
+import { Login } from './pages/login/Login';
 import { NavigationBar } from './componets/Link';
 import { PostArticle } from './pages/post/post-article';
 
